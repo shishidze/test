@@ -1,0 +1,5 @@
+petya poluchil 5
+anya poluchila 4
+pasha poluchil 3
+vadim poluchil 3
+lena poluchila 5
